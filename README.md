@@ -14,4 +14,10 @@ https://pro-test.studio/
 
 [Резюме](https://github.com/Oksana-sherotel/My_CV)
 
+[Yandex.Mail](oksana-sherotel@yandex.ru)
+
+[Telegram](@oxanasevastopol)
+
+
+
 _____________________________________________________________________________________________
