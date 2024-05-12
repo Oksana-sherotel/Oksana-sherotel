@@ -27,4 +27,4 @@ ________________________________________________________________________________
 
 [Коллекция в Postman](https://drive.google.com/drive/folders/1z6WugV7LGiCCWJmYzJCVr4TIAJu8i1hz?usp=sharing)
 
-Тест кейсы из "Qase"
+[Тест кейсы из Qase](https://drive.google.com/drive/folders/130mdGQvqy34Y477w9SWHa5Yoy2ywShLk?usp=sharing)
