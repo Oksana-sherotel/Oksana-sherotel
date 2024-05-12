@@ -23,10 +23,9 @@ ________________________________________________________________________________
 
 ### Образцы тестовой документации:
 
-Текстовая документация (чек-листы, тест-кейсы)
-
-[Коллекция в Postman](https://drive.google.com/drive/folders/1z6WugV7LGiCCWJmYzJCVr4TIAJu8i1hz?usp=sharing)
+[Коллекция в Postman](https://web.postman.co/workspace/Postman-training~9bd22c33-75e4-402d-a833-43970ae91598/collection/33615581-c295f1f1-459e-492f-b4f8-8753e6bb51e0)
 
 [Тест кейсы из Qase](https://github.com/Oksana-sherotel/QASE)
+
 
 
