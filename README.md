@@ -16,7 +16,9 @@ https://pro-test.studio/
 
 [Yandex.Mail](oksana-sherotel@yandex.ru)
 
-[Telegram](@oxanasevastopol)
+[Telegram](https://t.me/oxanasevastopol)
+
+
 
 
 
