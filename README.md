@@ -25,7 +25,10 @@ ________________________________________________________________________________
 
 [Коллекция в Postman](https://web.postman.co/workspace/Postman-training~9bd22c33-75e4-402d-a833-43970ae91598/collection/33615581-c295f1f1-459e-492f-b4f8-8753e6bb51e0)
 
+[Коллекция в Postman](https://web.postman.co/workspace/Postman-training~9bd22c33-75e4-402d-a833-43970ae91598/collection/33615581-5ea6a8d6-1b60-471e-9f78-66c6c190b9be)
+
 [Тест кейсы из Qase](https://github.com/Oksana-sherotel/QASE)
+
 
 
 
