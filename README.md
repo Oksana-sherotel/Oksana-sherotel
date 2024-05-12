@@ -25,6 +25,6 @@ ________________________________________________________________________________
 
 Текстовая документация (чек-листы, тест-кейсы)
 
-Коллекция в Postman
+[Коллекция в Postman](https://drive.google.com/drive/folders/1z6WugV7LGiCCWJmYzJCVr4TIAJu8i1hz?usp=sharing)
 
 Тест кейсы из "Qase"
